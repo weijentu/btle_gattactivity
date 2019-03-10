@@ -1,0 +1,7 @@
+<resources>
+    <string name="btn0">发送讯息组一</string>
+    <string name="btn1">发送讯息组二</string>
+    <string name="btn2">发送讯息组三</string>
+    <string name="btn3">发送讯息组四</string>
+    <string name="txt0">接收讯息</string>
+</resources>
